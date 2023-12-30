@@ -34,6 +34,7 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
+        <h1>TAZ TEST</h1>
         <img
           alt="Hero"
           class="rounded shadow-xl"
